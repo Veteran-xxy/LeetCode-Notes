@@ -15,6 +15,7 @@ My LeetCode solutions, problem-solving notes, C++ learning records and mistakes.
 | # | Problem | Difficulty | Solution | Time | Space | Date |
 |---|---|---|---|---|---|---|
 | 1 | [Two Sum 两数之和](./001-Two-Sum/notes.md) | Easy | 暴力枚举 / 哈希表 | O(n²) / 平均 O(n) | O(1) / O(n) | 2026-09-26 |
+| 49 | [Group Anagrams 字母异位词分组](./049-Group-Anagrams/notes.md) | Medium | 排序 / 哈希表分组 | 平均 O(n · k log k) | O(n · k) | 2026-09-26 |
 
 ## C++ Learning
 
