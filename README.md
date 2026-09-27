@@ -15,6 +15,7 @@ My LeetCode solutions, problem-solving notes, C++ learning records and mistakes.
 | # | Problem | Difficulty | Solution | Time | Space | Date |
 |---|---|---|---|---|---|---|
 | 1 | [Two Sum 两数之和](./001-Two-Sum/notes.md) | Easy | 暴力枚举 / 哈希表 | O(n²) / 平均 O(n) | O(1) / O(n) | 2026-09-26 |
+| 11 | [Container With Most Water 盛最多水的容器](./011-Container-With-Most-Water/notes.md) | Medium | 暴力枚举 / 双指针 | O(n²) / O(n) | O(1) | 2026-09-27 |
 | 49 | [Group Anagrams 字母异位词分组](./049-Group-Anagrams/notes.md) | Medium | 排序 / 哈希表分组 | 平均 O(n · k log k) | O(n · k) | 2026-09-26 |
 | 128 | [Longest Consecutive Sequence 最长连续序列](./128-Longest-Consecutive-Sequence/notes.md) | Medium | 哈希集合 | 平均 O(n) | O(n) | 2026-09-26 |
 | 283 | [Move Zeroes 移动零](./283-Move-Zeroes/notes.md) | Easy | 双指针原地移动 | O(n) | O(1) | 2026-09-27 |
