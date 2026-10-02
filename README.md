@@ -21,6 +21,7 @@ My LeetCode solutions, problem-solving notes, C++ learning records and mistakes.
 | 49 | [Group Anagrams 字母异位词分组](./049-Group-Anagrams/notes.md) | Medium | 排序 / 哈希表分组 | 平均 O(n · k log k) | O(n · k) | 2026-09-26 |
 | 128 | [Longest Consecutive Sequence 最长连续序列](./128-Longest-Consecutive-Sequence/notes.md) | Medium | 哈希集合 | 平均 O(n) | O(n) | 2026-09-26 |
 | 283 | [Move Zeroes 移动零](./283-Move-Zeroes/notes.md) | Easy | 双指针原地移动 | O(n) | O(1) | 2026-09-27 |
+| 438 | [Find All Anagrams in a String 找到字符串中所有字母异位词](./438-Find-All-Anagrams-in-a-String/notes.md) | Medium | 固定长度滑动窗口 / 字符计数 | O(m + n) | O(1) | 2026-10-02 |
 
 ## C++ Learning
 
